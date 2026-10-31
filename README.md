@@ -62,8 +62,8 @@ I'm working on new projects and improving my skills every day!
 💻 Always learning and growing.
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=19711185-netizen&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=19711185-netizen&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=19711185-netizen&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=19711185-netizen&layout=compact&theme=tokyonight)
