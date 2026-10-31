@@ -110,3 +110,11 @@ I'm working on new projects and improving my skills every day!
 - Diseño de páginas web.
 - Robótica y Arduino.
 - Nuevas tecnologías.
+
+- ---
+
+## ✨ Gracias por visitar mi perfil
+
+💻 Aprendiendo, creando y creciendo en el mundo de la tecnología.
+
+🚀 ¡El futuro comienza con una línea de código!
