@@ -102,3 +102,11 @@ I'm working on new projects and improving my skills every day!
 - 🤖 Proyectos con Arduino.
 - 🧩 Ejercicios de lógica de programación.
 - 💻 Prácticas de HTML y CSS.
+
+- ## 📚 Actualmente estoy aprendiendo
+
+- Desarrollo web.
+- Lenguajes de programación.
+- Diseño de páginas web.
+- Robótica y Arduino.
+- Nuevas tecnologías.
