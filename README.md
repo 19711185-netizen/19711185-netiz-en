@@ -67,3 +67,23 @@ I'm working on new projects and improving my skills every day!
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=19711185-netizen&layout=compact&theme=tokyonight)
+
+## 🚀 Proyectos Destacados
+
+- 💻 Proyectos de HTML y CSS.
+- 🤖 Proyectos de lógica y robótica.
+- 📚 Proyectos de programación.
+
+## 🎯 Mis Objetivos
+
+- Aprender nuevos lenguajes de programación.
+- Mejorar mis habilidades en desarrollo web.
+- Crear proyectos innovadores.
+
+- ## 📫 Contacto
+
+- 📍 El Salvador
+- 💻 GitHub: Mi perfil
+
+- ---
+✨ Siempre aprendiendo y creciendo en el mundo de la tecnología.
