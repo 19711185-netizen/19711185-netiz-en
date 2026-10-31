@@ -95,3 +95,10 @@ I'm working on new projects and improving my skills every day!
 - 💻 Programación
 - 🤖 Lógica robótica
 - 🧩 Resolución de problemas
+
+- ## 📂 Mis Proyectos
+
+- 🌐 Página web interactiva.
+- 🤖 Proyectos con Arduino.
+- 🧩 Ejercicios de lógica de programación.
+- 💻 Prácticas de HTML y CSS.
