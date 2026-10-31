@@ -87,3 +87,11 @@ I'm working on new projects and improving my skills every day!
 
 - ---
 ✨ Siempre aprendiendo y creciendo en el mundo de la tecnología.
+
+## 🛠️ Habilidades
+
+- 🌐 HTML
+- 🎨 CSS
+- 💻 Programación
+- 🤖 Lógica robótica
+- 🧩 Resolución de problemas
